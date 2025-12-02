@@ -22,5 +22,13 @@ public class Player : MonoBehaviour
         }
     }
 
-    
+  public void speed()
+    {
+
+    }
+  public void IsInvulnerablae()
+    {
+
+    }
+
 }
